@@ -1,2 +1,7 @@
 ||1point3acres.com
 ||glassdoor.com
+||google-analytics.com
+||googletagmanager.com
+||ifunny.co
+||sentry.io
+||tubitv.com
